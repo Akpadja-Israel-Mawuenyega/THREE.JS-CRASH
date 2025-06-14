@@ -1,5 +1,26 @@
 {
+  "name": "three.js-crash",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Akpadja-Israel-Mawuenyega/THREE.JS-CRASH#readme",
+  "bugs": {
+    "url": "https://github.com/Akpadja-Israel-Mawuenyega/THREE.JS-CRASH/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akpadja-Israel-Mawuenyega/THREE.JS-CRASH.git"
+  },
+  "license": "ISC",
+  "author": "Israel Akpadja",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
     "three": "^0.177.0"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
   }
 }
